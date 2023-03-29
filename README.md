@@ -1,3 +1,3 @@
 # Credit-Card-Defaults-using-SVM
 
-Using Support Vector Machines to classify credit card defaults
+Using Support Vector Machines to predict credit card defaults
